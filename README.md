@@ -46,7 +46,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/adityamehrotra1604/)  
 - 🌐 [Portfolio (Coming Soon)](https://coded-by-aditya.github.io)  
-- 📧 Reach me at: `adityamehrotra1604@gmail.com`
+- 📧 Reach me at: `mehrotra.aditya16@outlook.com`
 
 ---
 
