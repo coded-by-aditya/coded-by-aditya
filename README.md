@@ -1,55 +1,48 @@
 <h1 align="center">Hi, I'm Aditya 👋</h1>
 <p align="center">
-  <em>Cloud | DevOps | MLOps | Platform Engineering</em><br>
-  <strong>Building scalable, intelligent systems in the cloud ☁️</strong>
+  <em>Cloud • Backend • DevOps</em><br>
+  <strong>Designing small, reliable services on AWS</strong>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-
-- 💻 Currently pursuing a **Master of Information Technology** at **Monash University**, Melbourne
-- 🌐 Former **Senior Integration Engineer** @ Darwinbox
-- 🧠 Passionate about combining **Cloud, AI/ML, and DevOps** to build smart, scalable platforms
-- 🎯 Goal: Land a high-impact **Cloud/AI Engineer** or **MLOps role** in Australia by end of 2025
-
----
-
-### 🔧 Tech Stack & Interests
-
-- **Cloud Platforms:** AWS (Certifications in Progress), Azure  
-- **DevOps:** Docker, Kubernetes, Terraform, GitHub Actions, CI/CD  
-- **Programming:** Python, Java, R  
-- **Data & ML:** Scikit-Learn, Pandas, MLOps, Model Deployment  
-- **Tools:** VS Code, Git, Linux, Postman, REST APIs
+- Master of Information Technology @ **Monash University** (Melbourne) — **Graduating May 2026**
+- Former **Senior Integration Consultant** @ **Darwinbox**
+- I like turning clear specs into simple, reliable backends with **AWS Serverless** and **Python**
+- **Now:** open to a **part-time internship (10–20 hrs/week)**; full-time from mid-2026
 
 ---
 
-### 📁 Current Projects
-
-- 🏗️ **Cloud Resume Challenge** – [In Progress] Hosting a serverless personal website on AWS  
-- ⚙️ **MLOps Pipeline** – Full ML lifecycle with CI/CD, model versioning, and deployment  
-- 🔐 **Terraform Infrastructure** – Reusable IaC modules for VPCs, EC2, S3, IAM  
-- 🚀 **Portfolio Site** – Modern personal website with projects, blog & resume
-
----
-
-### 🎓 Learning & Certifications
-
-- 📘 AWS Certified Solutions Architect (In Progress)  
-- 📗 Azure Fundamentals (Next)  
-- 🧪 Contributing to Research Projects in **Distributed Systems & Machine Learning**
+### 🔧 Tech Stack
+**Cloud & DevOps:** AWS (Lambda, API Gateway, S3, DynamoDB, Cognito, IAM), Docker, GitHub Actions  
+**Backend:** Python (FastAPI/Flask), REST, Auth, Testing  
+**Data:** SQL, basic ETL (pandas), reporting  
+**Learning:** Terraform basics, MLOps concepts
 
 ---
 
-### 🤝 Let's Connect
+### 🚢 Featured Projects
+- **BirdTag — Serverless Media Tagging (Case Study)**  
+  Architecture + example handlers for a serverless flow: API Gateway → Lambda → DynamoDB with pre-signed S3.  
+  Endpoints include `/search-by-species`, `/get-original-url`, `/modify-tags`.  
+  **Repo:** https://github.com/coded-by-aditya/birdtag-case-study
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/adityamehrotra1604/)  
-- 🌐 [Portfolio (Coming Soon)](https://coded-by-aditya.github.io)  
-- 📧 Reach me at: `mehrotra.aditya16@outlook.com`
+- **Nestle-In — Community App Prototype**  
+  Lightweight prototype focused on onboarding newcomers: simple resources, bookmarks, clean API layer.  
+  **Repo:** https://github.com/coded-by-aditya/nestle-in
+
+> I don’t publish current coursework. Happy to demo skills privately (screen share, small repo snippets).
 
 ---
 
-> “Stay focused. Stay aggressive. Build boldly.”
+### 🎓 Education
+- **Monash University** — Master of IT (2024–2026)  
+- **Manipal Institute of Technology** — B.Tech, Information Technology (Sep 2021)
 
+---
 
+### 🤝 Contact
+- **Website:** https://coded-by-aditya.github.io  
+- **LinkedIn:** https://www.linkedin.com/in/adityamehrotra1604/  
+- **Email:** mehrotra.aditya16@outlook.com
